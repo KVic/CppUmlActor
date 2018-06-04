@@ -1,3 +1,3 @@
-# CppUmlActor
+# CppUml Actor
 
-CppUmlActor is part of [CppUmlFramework](https://github.com/KVic/CppUmlFramework).
+The CppUml Actor is part of the CppUml Framework.
